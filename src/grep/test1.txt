@@ -1,0 +1,15 @@
+
+cat Usage
+
+
+
+
+
+Cat is one of the most frequently used commands.
+
+cat [OPTION] [FILE]...
+
+cat	Options
+
+Options	Description
+-b (GNU: --number-nonblank)	numbers only non-empty lines
